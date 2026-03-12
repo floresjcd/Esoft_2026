@@ -6,7 +6,7 @@
 > **Objetivo:** Instalação e configuração de um ambiente de desenvolvimento JavaScript;
 ---
 
-A seguir apresento um **procedimento completo ** para que os alunos montem um **ambiente de desenvolvimento adequado para praticar JavaScript** em seus computadores.
+A seguir apresento um **procedimento completo** para que os alunos montem um **ambiente de desenvolvimento adequado para praticar JavaScript** em seus computadores.
 
 ---
 
@@ -308,3 +308,4 @@ Essas ferramentas permitirão o desenvolvimento de **scripts, aplicações web e
 
 [![Foto de Perfil](https://github.com/floresjcd.png?size=50)](https://github.com/floresjcd) 
 **[@floresjcd](https://github.com/floresjcd)**
+
