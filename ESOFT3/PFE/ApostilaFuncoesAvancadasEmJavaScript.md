@@ -117,7 +117,6 @@ Funções anônimas são extremamente úteis em diversas situações:
 const mostrarMensagem = function() {
   console.log('Esta é uma função anônima atribuída a uma variável.');
 };
-morning.log('Esta é uma função anônima atribuída a uma variável.');
 mostrarMensagem();
 
 // Exemplo 2: Como callback em setTimeout
