@@ -43,18 +43,18 @@ Para subsidiar a elaboração de trabalhos de **Mapeamento de Processos (BPMN)**
 
 | Recurso | URL | Finalidade |
 |---------|-----|-----------|
-| **OMG – BPMN Specification** | [www.omg.org/bpmn](https://www.omg.org/bpmn) | Acesso à especificação oficial, exemplos, perfis de extensão e documentação técnica [[26]]. |
+| **OMG – BPMN Specification** | [www.omg.org/bpmn](https://www.omg.org/bpmn) | Acesso à especificação oficial, exemplos, perfis de extensão e documentação técnica. |
 | **OMG – UML Specification** | [www.omg.org/spec/UML](https://www.omg.org/spec/UML) | Documento normativo da UML 2.5.1, com glossário, metamodelo e regras de conformidade [[16]]. |
-| **BPMN.org** | [www.bpmn.org](https://www.bpmn.org) | Portal comunitário com tutoriais, posters de referência rápida e atualizações sobre a notação [[21]]. |
-| **IBM Knowledge Center – BPMN** | [ibm.com/br-pt/think/topics/bpmn](https://www.ibm.com/br-pt/think/topics/bpmn) | Explicações didáticas com exemplos visuais e integração com ferramentas enterprise [[45]]. |
+| **BPMN.org** | [www.bpmn.org](https://www.bpmn.org) | Portal comunitário com tutoriais, posters de referência rápida e atualizações sobre a notação. |
+| **IBM Knowledge Center – BPMN** | [ibm.com/br-pt/think/topics/bpmn](https://www.ibm.com/br-pt/think/topics/bpmn) | Explicações didáticas com exemplos visuais e integração com ferramentas enterprise. |
 
 ### 🔹 Guias Práticos e Materiais em Português
 
 | Recurso | URL | Destaque |
 |---------|-----|----------|
-| **Guia de Referência Rápida BPMN 2.0 (iProcess)** | [blog.iprocess.com.br/guiabpmn](https://blog.iprocess.com.br/guiabpmn) | Poster gratuito em PDF com síntese visual dos elementos BPMN; ideal para consulta durante a modelagem [[2]]. |
-| **Manual de BPMN para Segurança Pública (EduCAPES)** | [educapes.capes.gov.br](https://educapes.capes.gov.br/bitstream/capes/870808/2/Manual%20de%20BPMN%20para%20a%20Seguran%C3%A7a%20P%C3%BAblica%20-%20Silva%20e%20Ramos%20%282024%29.pdf) | Material acadêmico aberto com estudos de caso aplicados ao contexto brasileiro [[25]]. |
-| **Guia de Modelagem de Processos (MPM)** | [mpm.mp.br](https://www.mpm.mp.br/wp-content/uploads/sites/5/2023/06/guia-de-modelagem-de-processos.pdf) | Guia institucional com boas práticas, templates e checklist de qualidade para modelagem [[43]]. |
+| **Guia de Referência Rápida BPMN 2.0 (iProcess)** | [blog.iprocess.com.br/guiabpmn](https://blog.iprocess.com.br/guiabpmn) | Poster gratuito em PDF com síntese visual dos elementos BPMN; ideal para consulta durante a modelagem. |
+| **Manual de BPMN para Segurança Pública (EduCAPES)** | [educapes.capes.gov.br](https://educapes.capes.gov.br/bitstream/capes/870808/2/Manual%20de%20BPMN%20para%20a%20Seguran%C3%A7a%20P%C3%BAblica%20-%20Silva%20e%20Ramos%20%282024%29.pdf) | Material acadêmico aberto com estudos de caso aplicados ao contexto brasileiro. |
+| **Guia de Modelagem de Processos (MPM)** | [mpm.mp.br](https://www.mpm.mp.br/wp-content/uploads/sites/5/2023/06/guia-de-modelagem-de-processos.pdf) | Guia institucional com boas práticas, templates e checklist de qualidade para modelagem. |
 
 ### 🔹 Tutoriais e Ferramentas com Suporte a UML/BPMN
 
