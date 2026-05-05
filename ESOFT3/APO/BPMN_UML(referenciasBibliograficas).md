@@ -19,17 +19,17 @@ Para subsidiar a elaboração de trabalhos de **Mapeamento de Processos (BPMN)**
 
 | Título | Autor(es) | Editora/Ano | Por que consultar? |
 |--------|-----------|-------------|-------------------|
-| **Modelagem de Processos com BPMN** (2ª ed.) | André L. N. Campos | Brasport, 2015 | Referência nacional mais completa; aborda desde conceitos fundamentais até padrões avançados de orquestração [[1]]. |
-| **MANUAL BPMN 2.0 – Simplificado** | Giovani Correia | Amazon KDP, 2020 | Linguagem acessível, ideal para consulta rápida de elementos da notação e exemplos práticos [[10]]. |
-| **Fuja do Fluxograma: Modelagem da Verdade com BPMN** | Gart Capote | Editora do Autor, 2018 | Aborda boas práticas para evitar armadilhas comuns na modelagem; foco em valor de negócio [[9]]. |
-| **Business Process Model and Notation (BPMN) 2.0** | Object Management Group (OMG) | OMG Specification, 2011 | **Fonte primária normativa**; essencial para consulta técnica da sintaxe oficial da notação [[26]]. |
+| **Modelagem de Processos com BPMN** (2ª ed.) | André L. N. Campos | Brasport, 2015 | Referência nacional mais completa; aborda desde conceitos fundamentais até padrões avançados de orquestração. |
+| **MANUAL BPMN 2.0 – Simplificado** | Giovani Correia | Amazon KDP, 2020 | Linguagem acessível, ideal para consulta rápida de elementos da notação e exemplos práticos. |
+| **Fuja do Fluxograma: Modelagem da Verdade com BPMN** | Gart Capote | Editora do Autor, 2018 | Aborda boas práticas para evitar armadilhas comuns na modelagem; foco em valor de negócio. |
+| **Business Process Model and Notation (BPMN) 2.0** | Object Management Group (OMG) | OMG Specification, 2011 | **Fonte primária normativa**; essencial para consulta técnica da sintaxe oficial da notação. |
 | **BPMN Method and Style** (2nd ed.) | Bruce Silver | Cody-Cassidy Press, 2011 | Abordagem pragmática com foco em clareza, reutilização e conformidade; referência internacional. |
 
 ### 🔹 Sobre UML (Unified Modeling Language)
 
 | Título | Autor(es) | Editora/Ano | Por que consultar? |
 |--------|-----------|-------------|-------------------|
-| **UML 2: Uma Abordagem Prática** (2ª ed.) | Gilleanes T. A. Guedes | Novatec, 2011 | Didático e alinhado ao contexto brasileiro; cobre diagramas estruturais e comportamentais com exemplos [[13]]. |
+| **UML 2: Uma Abordagem Prática** (2ª ed.) | Gilleanes T. A. Guedes | Novatec, 2011 | Didático e alinhado ao contexto brasileiro; cobre diagramas estruturais e comportamentais com exemplos. |
 | **UML Distilled** (3rd ed.) | Martin Fowler | Addison-Wesley, 2003 | Clássico conciso; ideal para revisão rápida de conceitos fundamentais da UML. |
 | **The Unified Modeling Language Reference Manual** (2nd ed.) | James Rumbaugh et al. | Addison-Wesley, 2004 | Obra de referência dos criadores da UML; detalhamento técnico profundo. |
 | **Unified Modeling Language Specification v2.5.1** | Object Management Group (OMG) | OMG Specification, 2017 | **Documento normativo oficial**; indispensável para validação sintática de diagramas [[16]]. |
