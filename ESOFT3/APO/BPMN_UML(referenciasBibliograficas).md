@@ -32,7 +32,7 @@ Para subsidiar a elaboração de trabalhos de **Mapeamento de Processos (BPMN)**
 | **UML 2: Uma Abordagem Prática** (2ª ed.) | Gilleanes T. A. Guedes | Novatec, 2011 | Didático e alinhado ao contexto brasileiro; cobre diagramas estruturais e comportamentais com exemplos. |
 | **UML Distilled** (3rd ed.) | Martin Fowler | Addison-Wesley, 2003 | Clássico conciso; ideal para revisão rápida de conceitos fundamentais da UML. |
 | **The Unified Modeling Language Reference Manual** (2nd ed.) | James Rumbaugh et al. | Addison-Wesley, 2004 | Obra de referência dos criadores da UML; detalhamento técnico profundo. |
-| **Unified Modeling Language Specification v2.5.1** | Object Management Group (OMG) | OMG Specification, 2017 | **Documento normativo oficial**; indispensável para validação sintática de diagramas [[16]]. |
+| **Unified Modeling Language Specification v2.5.1** | Object Management Group (OMG) | OMG Specification, 2017 | **Documento normativo oficial**; indispensável para validação sintática de diagramas. |
 | **Engenharia de Software: Uma Abordagem Profissional** | Ian Sommerville | Pearson, 2019 | Capítulo dedicado à modelagem com UML contextualizada no ciclo de vida de software. |
 
 ---
@@ -44,7 +44,7 @@ Para subsidiar a elaboração de trabalhos de **Mapeamento de Processos (BPMN)**
 | Recurso | URL | Finalidade |
 |---------|-----|-----------|
 | **OMG – BPMN Specification** | [www.omg.org/bpmn](https://www.omg.org/bpmn) | Acesso à especificação oficial, exemplos, perfis de extensão e documentação técnica. |
-| **OMG – UML Specification** | [www.omg.org/spec/UML](https://www.omg.org/spec/UML) | Documento normativo da UML 2.5.1, com glossário, metamodelo e regras de conformidade [[16]]. |
+| **OMG – UML Specification** | [www.omg.org/spec/UML](https://www.omg.org/spec/UML) | Documento normativo da UML 2.5.1, com glossário, metamodelo e regras de conformidade. |
 | **BPMN.org** | [www.bpmn.org](https://www.bpmn.org) | Portal comunitário com tutoriais, posters de referência rápida e atualizações sobre a notação. |
 | **IBM Knowledge Center – BPMN** | [ibm.com/br-pt/think/topics/bpmn](https://www.ibm.com/br-pt/think/topics/bpmn) | Explicações didáticas com exemplos visuais e integração com ferramentas enterprise. |
 
