@@ -90,7 +90,7 @@ console.log(multiplicarPorDois(10)); // Saída: 20
 
 ### Definição e Sintaxe
 
-Uma **função anônima** é, como o próprio nome sugere, uma função que não possui um nome. Ela é definida sem um identificador e é frequentemente utilizada quando a função não precisa ser reutilizada em múltiplos locais do código, sendo executada uma única vez ou passada como argumento para outra função [1].
+Uma **função anônima** é, como o próprio nome sugere, uma função que não possui um nome. Ela é definida sem um identificador e é frequentemente utilizada quando a função não precisa ser reutilizada em múltiplos locais do código, sendo executada uma única vez ou passada como argumento para outra função.
 
 A sintaxe básica de uma função anônima tradicional é a seguinte:
 
@@ -141,7 +141,7 @@ document.getElementById('meuBotao').addEventListener('click', function() {
 
 ## 4. Arrow Functions (ES6+)
 
-Introduzidas no ECMAScript 2015 (ES6), as **Arrow Functions** (ou funções de seta) oferecem uma sintaxe mais concisa para escrever expressões de função, além de resolverem algumas questões relacionadas ao contexto do `this` [2]. Elas são sempre anônimas.
+Introduzidas no ECMAScript 2015 (ES6), as **Arrow Functions** (ou funções de seta) oferecem uma sintaxe mais concisa para escrever expressões de função, além de resolverem algumas questões relacionadas ao contexto do `this` . Elas são sempre anônimas.
 
 ### Sintaxe Concisa
 
@@ -169,7 +169,7 @@ Algumas simplificações:
 
 ### O `this` Léxico
 
-Uma das características mais importantes das arrow functions é como elas lidam com o valor do `this`. Ao contrário das funções tradicionais, que têm seu próprio `this` dinâmico (dependendo de como são chamadas), as arrow functions não criam seu próprio contexto de `this`. Em vez disso, elas herdam o `this` do escopo pai (o escopo léxico) [1].
+Uma das características mais importantes das arrow functions é como elas lidam com o valor do `this`. Ao contrário das funções tradicionais, que têm seu próprio `this` dinâmico (dependendo de como são chamadas), as arrow functions não criam seu próprio contexto de `this`. Em vez disso, elas herdam o `this` do escopo pai (o escopo léxico) .
 
 Isso resolve um problema comum em JavaScript, onde o `this` dentro de callbacks ou métodos aninhados podia se tornar confuso. Com arrow functions, o `this` se comporta de forma mais previsível.
 
@@ -251,7 +251,7 @@ console.log(joao); // Saída: { nome: 'João', idade: 30 }
 
 ### O Conceito de Callback
 
-Um **callback** é uma função que é passada como argumento para outra função e é executada posteriormente, em um momento específico, dentro da função que a recebeu [3]. É uma forma fundamental de programação assíncrona e de lidar com eventos em JavaScript.
+Um **callback** é uma função que é passada como argumento para outra função e é executada posteriormente, em um momento específico, dentro da função que a recebeu. É uma forma fundamental de programação assíncrona e de lidar com eventos em JavaScript.
 
 Imagine que você pede para um amigo te avisar quando uma tarefa estiver concluída. Seu amigo é a função principal, e o 
 aviso que ele te dará é o callback. Em programação, isso permite que uma função delegue a execução de uma parte do código para outra função, que será chamada quando um determinado evento ocorrer ou uma operação for concluída.
@@ -311,7 +311,7 @@ nomes.forEach(function(nome, indice) {
 
 ### Callback Hell e Soluções (Promises, Async/Await - breve menção)
 
-Quando lidamos com múltiplas operações assíncronas que dependem umas das outras, o uso excessivo de callbacks aninhados pode levar a um código difícil de ler e manter, conhecido como **Callback Hell** ou "Pirâmide da Perdição" [4].
+Quando lidamos com múltiplas operações assíncronas que dependem umas das outras, o uso excessivo de callbacks aninhados pode levar a um código difícil de ler e manter, conhecido como **Callback Hell** ou "Pirâmide da Perdição" .
 
 ```javascript
 // Exemplo de Callback Hell (ilustrativo)
@@ -339,7 +339,7 @@ Embora Promises e Async/Await sejam tópicos para uma aula mais aprofundada, é 
 
 ### Definição e Princípios
 
-Uma **Função de Alta Ordem (Higher-Order Function - HOF)** é uma função que faz uma ou ambas as seguintes coisas [5]:
+Uma **Função de Alta Ordem (Higher-Order Function - HOF)** é uma função que faz uma ou ambas as seguintes coisas:
 
 1.  Aceita uma ou mais funções como argumentos (callbacks).
 2.  Retorna uma função como seu resultado.
@@ -513,17 +513,17 @@ Ao integrar esses conhecimentos em sua prática diária, você estará apto a co
 
 ## 8. Referências Bibliográficas
 
-[1] MOZILLA DEVELOPER NETWORK (MDN). **Funções**. Disponível em: [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions). Acesso em: 25 mar. 2026.
+MOZILLA DEVELOPER NETWORK (MDN). **Funções**. Disponível em: [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions). Acesso em: 25 mar. 2026.
 
-[2] MOZILLA DEVELOPER NETWORK (MDN). **Funções de seta**. Disponível em: [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Arrow_functions](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Arrow_functions). Acesso em: 25 mar. 2026.
+MOZILLA DEVELOPER NETWORK (MDN). **Funções de seta**. Disponível em: [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Arrow_functions](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Arrow_functions). Acesso em: 25 mar. 2026.
 
-[3] MOZILLA DEVELOPER NETWORK (MDN). **Glossário: Função de callback**. Disponível em: [https://developer.mozilla.org/pt-BR/docs/Glossary/Callback_function](https://developer.mozilla.org/pt-BR/docs/Glossary/Callback_function). Acesso em: 25 mar. 2026.
+MOZILLA DEVELOPER NETWORK (MDN). **Glossário: Função de callback**. Disponível em: [https://developer.mozilla.org/pt-BR/docs/Glossary/Callback_function](https://developer.mozilla.org/pt-BR/docs/Glossary/Callback_function). Acesso em: 25 mar. 2026.
 
-[4] FREECODECAMP. **What is Callback Hell? – How to Avoid Callback Hell in JavaScript**. Disponível em: [https://www.freecodecamp.org/news/what-is-callback-hell-how-to-avoid-callback-hell-in-javascript/](https://www.freecodecamp.org/news/what-is-callback-hell-how-to-avoid-callback-hell-in-javascript/). Acesso em: 25 mar. 2026.
+FREECODECAMP. **What is Callback Hell? – How to Avoid Callback Hell in JavaScript**. Disponível em: [https://www.freecodecamp.org/news/what-is-callback-hell-how-to-avoid-callback-hell-in-javascript/](https://www.freecodecamp.org/news/what-is-callback-hell-how-to-avoid-callback-hell-in-javascript/). Acesso em: 25 mar. 2026.
 
-[5] FREECODECAMP. **Higher Order Functions in JavaScript – Beginner's Guide**. Disponível em: [https://www.freecodecamp.org/news/higher-order-functions-in-javascript/](https://www.freecodecamp.org/news/higher-order-functions-in-javascript/). Acesso em: 25 mar. 2026.
+FREECODECAMP. **Higher Order Functions in JavaScript – Beginner's Guide**. Disponível em: [https://www.freecodecamp.org/news/higher-order-functions-in-javascript/](https://www.freecodecamp.org/news/higher-order-functions-in-javascript/). Acesso em: 25 mar. 2026.
 
-[6] HAVERBEKE, Marijn. **Eloquent JavaScript: A Modern Introduction to Programming**. 3. ed. San Francisco: No Starch Press, 2018.
+HAVERBEKE, Marijn. **Eloquent JavaScript: A Modern Introduction to Programming**. 3. ed. San Francisco: No Starch Press, 2018.
 
 [7] FLANAGAN, David. **JavaScript: The Definitive Guide**. 7. ed. Sebastopol: O'Reilly Media, 2020.
 
