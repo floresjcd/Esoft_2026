@@ -525,9 +525,9 @@ FREECODECAMP. **Higher Order Functions in JavaScript – Beginner's Guide**. Dis
 
 HAVERBEKE, Marijn. **Eloquent JavaScript: A Modern Introduction to Programming**. 3. ed. San Francisco: No Starch Press, 2018.
 
-[7] FLANAGAN, David. **JavaScript: The Definitive Guide**. 7. ed. Sebastopol: O'Reilly Media, 2020.
+FLANAGAN, David. **JavaScript: The Definitive Guide**. 7. ed. Sebastopol: O'Reilly Media, 2020.
 
-[8] SIMPSON, Kyle. **You Don't Know JS: Scope & Closures**. 2. ed. Sebastopol: O'Reilly Media, 2020.
+SIMPSON, Kyle. **You Don't Know JS: Scope & Closures**. 2. ed. Sebastopol: O'Reilly Media, 2020.
 
 [9] ECMA INTERNATIONAL. **ECMAScript® 2023 Language Specification**. Disponível em: [https://tc39.es/ecma262/](https://tc39.es/ecma262/). Acesso em: 25 mar. 2026.
 
